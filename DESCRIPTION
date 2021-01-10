@@ -1,0 +1,10 @@
+Package: themainer
+Type: Package
+Title: Lyrics from a Band Called the Maine
+Version: 0.1.0
+Authors@R: person("Benedikt B.", "Claus", email = "b.claus@pedscience.de", role = c("cre", "aut"), comment = c(ORCID = "0000-0001-9501-0954"))
+
+Description: themainer contains the complete lyrics from the band 
+  "The Maine" in a tidy format.
+Encoding: UTF-8
+LazyData: true
